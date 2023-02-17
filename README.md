@@ -33,3 +33,4 @@ Tablas
 | ------- | -------- |
 | Aquiles Alvarez  | 551, 996   |
 | Cinthia Viteri   | 420, 208   |
+| Caicedo Cervantes  | 520, 308   |
